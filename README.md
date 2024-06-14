@@ -4,7 +4,7 @@ Bio::SeqAlignment::Examples::EnhancingEdlib - Parallelizing Edlib with MCE, Open
 
 # VERSION
 
-version 0.01
+version 0.02
 
 # SYNOPSIS
 
